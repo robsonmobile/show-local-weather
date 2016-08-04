@@ -1,0 +1,18 @@
+@import 'https://fonts.googleapis.com/css?family=Indie+Flower';
+body{
+  background-size:cover;
+}
+
+.header {
+  font-family: 'Indie Flower', cursive;
+  font-weight: 400px;
+  font-size: 70px;
+}
+
+.tagline {
+  font-family: 'Indie Flower', cursive;
+}
+
+.jumbotron {
+  margin-top: 25px;
+}
